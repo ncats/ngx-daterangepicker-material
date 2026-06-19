@@ -48,7 +48,7 @@
     "dayjs": "^1.10.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~13.3.4",
+    "@angular-devkit/build-angular": "~16.2.5",
     "@angular/animations": "^13.3.5",
     "@angular/cdk": "^12.2.13",
     "@angular/cli": "~13.3.4",
